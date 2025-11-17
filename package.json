@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && xcopy public\\images dist\\images /E /I /Y",
-    "preview": "vite preview"
+    "build": "vite build",
+    "preview": "vite preview",
+    "postbuild": "cp -r public/images dist/images"
   },
   "keywords": ["farcaster", "mini-app", "react", "vite", "quotes", "inspiration"],
   "author": "",
