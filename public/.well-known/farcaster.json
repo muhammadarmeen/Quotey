@@ -1,0 +1,34 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Quotey",
+    "homeUrl": "https://your-domain.com",
+    "iconUrl": "/images/icon.svg",
+    "splashImageUrl": "/images/splash.svg",
+    "splashBackgroundColor": "#667eea",
+    "webhookUrl": "https://your-domain.com/api/webhook",
+    "subtitle": "Discover and share inspiring quotes",
+    "description": "Generate random quotes from various categories and share them directly to Farcaster.",
+    "screenshotUrls": [
+      "/images/screenshot1.svg",
+      "/images/screenshot2.svg",
+      "/images/screenshot3.svg"
+    ],
+    "primaryCategory": "entertainment",
+    "tags": ["quotes", "miniapp", "baseapp"],
+    "heroImageUrl": "/images/hero.svg",
+    "tagline": "Find the perfect quote to share",
+    "ogTitle": "Farcaster Quote Generator",
+    "ogDescription": "Discover and share inspiring quotes with the Farcaster community.",
+    "ogImageUrl": "/images/hero.svg",
+    "noindex": true
+  }
+}
