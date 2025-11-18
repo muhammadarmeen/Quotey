@@ -7,7 +7,7 @@
     "dev": "npx vite",
     "build": "npx vite build",
     "preview": "npx vite preview",
-    "postbuild": "cp -r public/images dist/images && cp -r public/images/png dist/images/png"
+    "postbuild": "cp -r public/images dist/images && cp -r public/images/png dist/images/png && cp -r public/.well-known dist/.well-known"
   },
   "keywords": ["farcaster", "mini-app", "react", "vite", "quotes", "inspiration"],
   "author": "",
