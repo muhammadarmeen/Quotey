@@ -15,7 +15,7 @@
     "splashImageUrl": "https://quotey-8ug2.vercel.app/images/splash.svg",
     "splashBackgroundColor": "#667eea",
     "webhookUrl": "https://quotey-8ug2.vercel.app/api/webhook",
-    "subtitle": "Explore and share inspiring quotes",
+    "subtitle": "Explore Inspiring Quotes",
     "description": "Generate random quotes from various categories and share them directly to Farcaster.",
     "screenshotUrls": [
       "https://quotey-8ug2.vercel.app/images/screenshot1.svg",
