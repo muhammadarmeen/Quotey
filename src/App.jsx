@@ -937,7 +937,7 @@ function App() {
 
 Shared via Quotey 🚀
 
-Try it: https://quotey-8ug2.vercel.app`,
+Open in Farcaster: farcaster://miniapp?url=https://quotey-8ug2.vercel.app`,
           embeds: []
         });
       } catch (err) {
@@ -945,7 +945,8 @@ Try it: https://quotey-8ug2.vercel.app`,
       }
     } else {
       // For demo purposes, copy to clipboard when not in mini app
-      navigator.clipboard.writeText(currentQuote);
+      // In Farcaster, this will open the mini app directly
+      navigator.clipboard.writeText(currentQuote + '\n\nShared via Quotey 🚀\n\nTo open in Farcaster: farcaster://miniapp?url=https://quotey-8ug2.vercel.app');
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
     }
