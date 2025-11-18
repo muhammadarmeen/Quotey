@@ -3,10 +3,10 @@
     "header": "eyJmaWQiOjEwNTg4MzcsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhlMzUzMjMyQjIzQTcxNjg4MTYwQTEwRjk3NmRjMzFkNWY2NzllNGVDIn0",
     "payload": "eyJkb21haW4iOiJxdW90ZXktOHVnMi52ZXJjZWwuYXBwIn0",
     "signature": "hHmUyvmiupzaXZT4vikv8xFbMojP9EYB4e43UK3emAgkhYML7cK0a1A5DAlAm6qkowhIi5LChj8G1aqbjDaqnBw="
-  },
+},
   "baseBuilder": {
     "ownerAddress": "0xD0C6e42E62056a05F9178adE579F220e92d2AcED"
-  },
+},
   "miniapp": {
     "version": "1",
     "name": "Quotey",
