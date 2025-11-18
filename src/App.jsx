@@ -933,7 +933,11 @@ function App() {
     if (sdk.isInMiniApp()) {
       try {
         await sdk.actions.composeCast({
-          text: `${currentQuote}\n\nShared via Farcaster Quote Generator 🚀`,
+          text: `${currentQuote}
+
+Shared via Quotey 🚀
+
+Try it: https://quotey-8ug2.vercel.app`,
           embeds: []
         });
       } catch (err) {
