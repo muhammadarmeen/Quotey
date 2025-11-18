@@ -10,7 +10,7 @@
   "miniapp": {
     "version": "1",
     "name": "Quotey",
-    "homeUrl": "https://quotey-8ug2.vercel.app/images/icon.svg",
+    "homeUrl": "https://quotey-8ug2.vercel.app",
     "iconUrl": "https://quotey-8ug2.vercel.app/images/icon.svg",
     "splashImageUrl": "https://quotey-8ug2.vercel.app/images/splash.svg",
     "splashBackgroundColor": "#667eea",
