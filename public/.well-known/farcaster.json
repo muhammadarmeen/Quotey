@@ -11,24 +11,24 @@
     "version": "1",
     "name": "Quotey",
     "homeUrl": "https://quotey-8ug2.vercel.app",
-    "iconUrl": "https://placehold.co/1024x1024/667eea/white/png?text=Q",
-    "splashImageUrl": "https://placehold.co/424x695/667eea/white/png?text=Quotey",
+    "iconUrl": "https://quotey-8ug2.vercel.app/images/png/icon.png",
+    "splashImageUrl": "https://quotey-8ug2.vercel.app/images/png/splash.png",
     "splashBackgroundColor": "#667eea",
     "webhookUrl": "https://quotey-8ug2.vercel.app/api/webhook",
     "subtitle": "Explore Inspiring Quotes",
     "description": "Generate random quotes from various categories and share them directly to Farcaster.",
     "screenshotUrls": [
-      "https://placehold.co/600x400/667eea/white/png?text=Screenshot+1",
-      "https://placehold.co/600x400/667eea/white/png?text=Screenshot+2",
-      "https://placehold.co/600x400/667eea/white/png?text=Screenshot+3"
+      "https://quotey-8ug2.vercel.app/images/png/screenshot1.png",
+      "https://quotey-8ug2.vercel.app/images/png/screenshot2.png",
+      "https://quotey-8ug2.vercel.app/images/png/screenshot3.png"
     ],
     "primaryCategory": "entertainment",
     "tags": ["quotes", "miniapp", "baseapp"],
-    "heroImageUrl": "https://placehold.co/1200x630/667eea/white/png?text=Quotey",
+    "heroImageUrl": "https://quotey-8ug2.vercel.app/images/png/hero.png",
     "tagline": "Find the ideal quote to share",
     "ogTitle": "Farcaster Quote Generator",
     "ogDescription": "Discover and share inspiring quotes with the Farcaster community.",
-    "ogImageUrl": "https://placehold.co/1200x630/667eea/white/png?text=Quotey",
+    "ogImageUrl": "https://quotey-8ug2.vercel.app/images/png/hero.png",
     "noindex": true
   }
 }

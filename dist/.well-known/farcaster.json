@@ -11,24 +11,24 @@
     "version": "1",
     "name": "Quotey",
     "homeUrl": "https://quotey-8ug2.vercel.app",
-    "iconUrl": "https://quotey-8ug2.vercel.app/images/icon.svg",
-    "splashImageUrl": "https://quotey-8ug2.vercel.app/images/splash.svg",
+    "iconUrl": "https://quotey-8ug2.vercel.app/images/png/icon.png",
+    "splashImageUrl": "https://quotey-8ug2.vercel.app/images/png/splash.png",
     "splashBackgroundColor": "#667eea",
     "webhookUrl": "https://quotey-8ug2.vercel.app/api/webhook",
     "subtitle": "Explore Inspiring Quotes",
     "description": "Generate random quotes from various categories and share them directly to Farcaster.",
     "screenshotUrls": [
-      "https://quotey-8ug2.vercel.app/images/screenshot1.svg",
-      "https://quotey-8ug2.vercel.app/images/screenshot2.svg",
-      "https://quotey-8ug2.vercel.app/images/screenshot3.svg"
+      "https://quotey-8ug2.vercel.app/images/png/screenshot1.png",
+      "https://quotey-8ug2.vercel.app/images/png/screenshot2.png",
+      "https://quotey-8ug2.vercel.app/images/png/screenshot3.png"
     ],
     "primaryCategory": "entertainment",
     "tags": ["quotes", "miniapp", "baseapp"],
-    "heroImageUrl": "https://quotey-8ug2.vercel.app/images/hero.svg",
+    "heroImageUrl": "https://quotey-8ug2.vercel.app/images/png/hero.png",
     "tagline": "Find the ideal quote to share",
     "ogTitle": "Farcaster Quote Generator",
     "ogDescription": "Discover and share inspiring quotes with the Farcaster community.",
-    "ogImageUrl": "https://quotey-8ug2.vercel.app/images/hero.svg",
+    "ogImageUrl": "https://quotey-8ug2.vercel.app/images/png/hero.png",
     "noindex": true
   }
 }
